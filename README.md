@@ -1,7 +1,7 @@
 ﻿# ImageGrabber_middleware
 This is a program that you can use as middleware to download photos from sites that have strict CORS rules.
 ## Installation
-pip install flask flask_cors 
+```pip install flask flask_cors```
 ## How to run?
 ```cd ImageGrabber_middleware```\
 ```py main.py```
